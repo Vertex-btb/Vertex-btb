@@ -1,3 +1,4 @@
+<img align='right' src='https://media.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif' width='400"'>
 ### Hello World!
 
 My name is Brendan. 
@@ -6,11 +7,11 @@ My name is Brendan.
 
 We live in a Digital Age surrounded by a plethora of social media platforms that define one's brand.  In the past, an individual would need to work to build a brand; unlike today, where one's brand is quickly created by their Digital footprint.  Welcome to one of my many footprints.
 
-##  :cloud:  Cloud Platforms
+##  Cloud Platforms
 [<img src="https://img.shields.io/badge/Microsoft%20Azure-282C34?logo=Microsoft-azure&logoColor=0089D6" alt="Azure logo" title="Azure" height="25" />][badge_anchor]
 &nbsp;
 
-## 🛠  Development - IDE, Code and Build
+##  Development - IDE, Code and Build
 [<img src="https://img.shields.io/badge/GitHub-282C34?logo=GitHub&logoColor=FFFFFF" alt="GitHub logo" title="GitHub" height="25" />][badge_anchor]
 &nbsp;[<img src="https://img.shields.io/badge/Azure%20DevOps-282C34?logo=azuredevops&logoColor=0078D7" alt="Azure DevOps logo" title="Azure DevOps" height="25" />][badge_anchor]
 &nbsp;
@@ -22,43 +23,55 @@ We live in a Digital Age surrounded by a plethora of social media platforms that
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][badge_anchor]
 
-## 🛠  Development - Static Code Analysis
+##  Development - Static Code Analysis
+[<img src="https://img.shields.io/badge/Fortify-282C34?logo=fortify&logoColor=CB2029" alt="Fortify logo" title="Fortify" height="25" />][badge_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/SonarQube-282C34?logo=sonarqube&logoColor=4E9BCD" alt="SonarQube logo" title="SonarQube" height="25" />][badge_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/WhiteSource-282C34?logo=WhiteSource&logoColor=FFD900" alt="WhiteSource logo" title="WhiteSource" height="25" />][badge_anchor]
 &nbsp;
 
-##  :computer:  Languages & Frameworks
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][badge_anchor]
-&nbsp;
+##  Languages & Frameworks
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][badge_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][badge_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Powershell-282C34?logo=Powershell&logoColor=5391FE" alt="Powershell logo" title="Powershell" height="25" />][badge_anchor]
+&nbsp;
 
-## 🛠  Technologies
+## Technologies
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][badge_anchor]
 &nbsp;
 
-## 🛠  Other Stuff
-[<img src="https://img.shields.io/badge/Square-282C34?logo=square&logoColor=3E4348" alt="git logo" title="git" height="25" />][badge_anchor]
+<br>
+
+In addition to my development responsibilities, I provide consulting services to organizations using:
+<br><br>
+
+[<img src="https://img.shields.io/badge/Eventebrite-282C34?logo=eventbrite&logoColor=F05537" alt="Eventbrite logo" title="Eventbrite" height="25" />][badge_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Microsoft%20Office-282C34?logo=Microsoft-Office&logoColor=D83B01" alt="Eventbrite logo" title="Eventbrite" height="25" />][badge_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Square-282C34?logo=square&logoColor=3E4348" alt="Square logo" title="Square" height="25" />][badge_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Squarespace-282C34?logo=squarespace&logoColor=FFFFFF" alt="Squarespace logo" title="Squarespace" height="25" />][badge_anchor]
 &nbsp;
 
+<br><br>
 
 
-## 📖  What I am currently learning / improving on
- - Powershell
- - 
-## 👾  What I am interested in learning at some point
- - ...
+<img align='right' src='https://media.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif' width='400"'>
 
-## 🔍  Where to find me
-- ...
+## What I am currently learning / improving on
+[<img src="https://img.shields.io/badge/GitHub-282C34?logo=GitHub&logoColor=FFFFFF" alt="GitHub logo" title="GitHub" height="25" />][badge_anchor]&nbsp;
+[<img src="https://img.shields.io/badge/Powershell-282C34?logo=Powershell&logoColor=5391FE" alt="Powershell logo" title="Powershell" height="25" />][badge_anchor]
+&nbsp;
 
+## What I am interested in learning at some point
+[<img src="https://img.shields.io/badge/GitHub%20Actions-282C34?logo=GitHub-Actions&logoColor=2088FF" alt="Powershell logo" title="Powershell" height="25" />][badge_anchor]
+&nbsp;
 
-## More about me
-- :phone: 212-479-7990 _(let's go :fishing_pole_and_fish:)_
-- I bought AMC :chart_with_upwards_trend: and sold before :chart_with_downwards_trend:
-- I find beauty in :bar_chart:
-
+## Where to find me
 ![Twitter Follow](https://img.shields.io/twitter/follow/Error_handling?style=social)
 
 
