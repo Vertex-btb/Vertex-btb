@@ -1,5 +1,3 @@
-<img align='right' src='https://media.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif' width='400"'>
-
 ### Hello World!
 
 My name is Brendan. 
@@ -8,8 +6,7 @@ My name is Brendan.
 
 We live in a Digital Age surrounded by a plethora of social media platforms that define one's brand.  In the past, an individual would need to work to build a brand; unlike today, where one's brand is quickly created by their Digital footprint.  Welcome to one of my many footprints.
 
-<table border="0"><tr style="border: none;"><td width=60% style="border: none;">
-  
+
 ##  Cloud Platforms
 [<img src="https://img.shields.io/badge/Microsoft%20Azure-282C34?logo=Microsoft-azure&logoColor=0089D6" alt="Azure logo" title="Azure" height="25" />][badge_anchor]
 &nbsp;
@@ -46,12 +43,7 @@ We live in a Digital Age surrounded by a plethora of social media platforms that
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][badge_anchor]
 &nbsp;
 
-  </td>
-  <td>
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
-  </td>
-  </tr>
-  </table>
+
 <br>
 
 <img align='right' src="https://raw.githubusercontent.com/Vertex-btb/Vertex-btb/main/images/Pay_it_forward.PNG" width='200"'>
